@@ -1,4 +1,4 @@
-# Layout 3 
+# Layout 03 
 
 ![preview](./.github/preview.png)
 
@@ -6,7 +6,7 @@
 
 Projeto desenvolvido durante o curso Explorer da Rocketseat, ao final dos módulos de HTML e CSS como desafio.
 
-[Clique aqui para acessar](https://desenvjonathan.github.io/projeto03/)
+[Clique aqui para acessar](https://desenvjonathan.github.io/layout03/)
 
 ## Tecnologias
 
